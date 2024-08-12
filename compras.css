@@ -1,0 +1,28 @@
+#productos-conteiner{
+    width: 500px;
+    margin: auto;
+}
+
+.tarjeta-producto{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+.tarjeta-producto img{
+    height: 100px;
+    aspect-ratio: 1,5;
+}
+
+.tarjeta-producto h3{
+   width: 170px;
+}
+
+.tarjeta-producto button{
+    height: 30px;
+}
+
+#totales{
+    text-align: center;
+}
